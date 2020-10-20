@@ -1,2 +1,2 @@
-web: java -Dserver.port=$PORT -jar target/GetUsernameBot-1.0-SNAPSHOT.jar
+web: java -jar target/GetUsernameBot-1.0-SNAPSHOT.jar
 
