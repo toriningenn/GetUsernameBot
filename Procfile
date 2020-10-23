@@ -1,2 +1,2 @@
-worker: java -jar target/GetUsernameBot-1.0-SNAPSHOT.jar
+worker: java $JAVA_OPTS -cp target/classes:target/dependency/* Main
 
